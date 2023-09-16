@@ -1,5 +1,3 @@
-console.log("Hello, World!");
-
 function knightMoves(start, end) {
   const moves = [
     [2, 1],
